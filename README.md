@@ -1,6 +1,6 @@
-# RedM Ranch Discord Bot
+# RedM Camp Discord Bot
 
-This bot was made for a Syn County Ranches
+This bot was made for a Syn County Camps
 
 **Supported Hosting Options**
 - **VPS (Virtual Private Server)** ✅
@@ -8,16 +8,15 @@ This bot was made for a Syn County Ranches
 ---
 
 ## Features
-- Reads Ranch Webhooks
-- Announces when a player collects milk/eggs - buys/sells cattle
-- Payout and Wipe commands
-- Auto Payout/Wipe
+- Reads Camp Webhooks
+- Auto Material Tracking
+- Auto Inventory Tracking
 ---
 
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/a65fb430-b900-43bb-b3ed-45ae2c1cf732)
-![image](https://github.com/user-attachments/assets/063462d8-0fac-44f0-b492-88f18308c393)
+![image](https://github.com/user-attachments/assets/7add5882-0b01-46e5-9f5e-528010492e7f)
+![image](https://github.com/user-attachments/assets/23dcd8d5-1f1f-4f8b-9ba6-cb1248e9b830)
 
 
 
