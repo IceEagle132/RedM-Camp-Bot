@@ -1,0 +1,7 @@
+{
+    "BOT_TOKEN": "TokenHere",
+    "WEBHOOK_CHANNEL_ID": "ID Here",
+    "TARGET_CHANNEL_ID": "ID Here",
+    "INVENTORY_CHANNEL_ID": "ID Here",
+    "EMBED_COLOR": "#00AE86"
+}
